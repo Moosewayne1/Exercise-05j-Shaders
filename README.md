@@ -85,5 +85,6 @@ Excellent Godot Shader (2D) examples are avaiable at:
 None
 
 ## Created by 
-Jason Francis
+Jason Steptoe
+
 ```
